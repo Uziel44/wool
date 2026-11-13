@@ -1,0 +1,1080 @@
+{
+  "_nota": "Fuente de verdad de precios. price = precio de lista en ARS (null = \"precio a consultar\" por WhatsApp); el precio por transferencia es price * (1 - store.transferDiscount). colors/sizes vacios = sin selector en el carrito. Datos de contacto tomados del Instagram @wool.vcp: confirmar que 3541 336079 atiende WhatsApp y completar store.email.",
+  "store": {
+    "name": "WOOL",
+    "tagline": "Indumentaria unisex, todos los talles",
+    "city": "Villa Carlos Paz, Córdoba",
+    "address": "Av. Gral. Paz 250",
+    "whatsapp": "5493541336079",
+    "whatsappDisplay": "3541 336079",
+    "email": "",
+    "currency": "ARS",
+    "transferDiscount": 0.2,
+    "installments": 3,
+    "liveStore": "",
+    "instagram": "https://www.instagram.com/wool.vcp/",
+    "facebook": "https://www.facebook.com/wool.villacarlospaz"
+  },
+  "categories": [
+    {
+      "id": "denim",
+      "name": "Denim"
+    },
+    {
+      "id": "playa",
+      "name": "Playa"
+    },
+    {
+      "id": "conjuntos",
+      "name": "Conjuntos"
+    },
+    {
+      "id": "abrigos",
+      "name": "Abrigos"
+    },
+    {
+      "id": "tejidos",
+      "name": "Tejidos"
+    },
+    {
+      "id": "pantalones",
+      "name": "Pantalones"
+    },
+    {
+      "id": "remeras",
+      "name": "Remeras y camisas"
+    },
+    {
+      "id": "accesorios",
+      "name": "Accesorios y más"
+    }
+  ],
+  "editorial": {
+    "hero": "img/wool-hero.webp",
+    "reels": []
+  },
+  "products": [
+    {
+      "id": "jean-wide-leg",
+      "name": "Jean wide leg",
+      "category": "denim",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": true,
+      "inStock": true,
+      "description": "Jean de pierna ancha.",
+      "images": [
+        "img/jean-wide-leg-1.webp"
+      ]
+    },
+    {
+      "id": "jean-mom",
+      "name": "Jean mom",
+      "category": "denim",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "Jean mom con bajo desflecado.",
+      "images": [
+        "img/jean-mom-1.webp"
+      ]
+    },
+    {
+      "id": "jean-oxford",
+      "name": "Jean oxford",
+      "category": "denim",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "Jean oxford en azul oscuro.",
+      "images": [
+        "img/jean-oxford-1.webp"
+      ]
+    },
+    {
+      "id": "jean-recto-y-remera-strapless",
+      "name": "Jean recto y remera strapless",
+      "category": "denim",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/jean-recto-y-remera-strapless-1.webp"
+      ]
+    },
+    {
+      "id": "campera-de-jean",
+      "name": "Campera de jean",
+      "category": "denim",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": true,
+      "inStock": true,
+      "description": "Campera de jean lavada, con bolsillos en el pecho.",
+      "images": [
+        "img/campera-de-jean-1.webp"
+      ]
+    },
+    {
+      "id": "campera-y-short-de-jean",
+      "name": "Campera y short de jean",
+      "category": "denim",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "Campera de jean lavada y short negro.",
+      "images": [
+        "img/campera-y-short-de-jean-1.webp"
+      ]
+    },
+    {
+      "id": "short-de-jean-con-roturas",
+      "name": "Short de jean con roturas",
+      "category": "denim",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": true,
+      "inStock": true,
+      "description": "Bermuda de jean con roturas y bajo desflecado.",
+      "images": [
+        "img/short-de-jean-con-roturas-1.webp"
+      ]
+    },
+    {
+      "id": "shorts-de-jean-con-botamanga",
+      "name": "Shorts de jean con botamanga",
+      "category": "denim",
+      "price": null,
+      "colorCount": 3,
+      "colors": [
+        "Azul oscuro",
+        "Azul medio",
+        "Celeste"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/shorts-de-jean-con-botamanga-1.webp"
+      ]
+    },
+    {
+      "id": "shorts-de-jean-claros",
+      "name": "Shorts de jean claros",
+      "category": "denim",
+      "price": null,
+      "colorCount": 2,
+      "colors": [
+        "Crudo",
+        "Celeste"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/shorts-de-jean-claros-1.webp"
+      ]
+    },
+    {
+      "id": "bikinis-de-temporada",
+      "name": "Bikinis de temporada",
+      "category": "playa",
+      "price": null,
+      "colorCount": 3,
+      "colors": [
+        "Animal print",
+        "Crema",
+        "Nude"
+      ],
+      "sizes": [],
+      "featured": true,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/bikinis-de-temporada-1.webp"
+      ]
+    },
+    {
+      "id": "bikinis-colores-tierra",
+      "name": "Bikinis colores tierra",
+      "category": "playa",
+      "price": null,
+      "colorCount": 2,
+      "colors": [
+        "Terracota",
+        "Mostaza"
+      ],
+      "sizes": [],
+      "featured": true,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/bikinis-colores-tierra-1.webp"
+      ]
+    },
+    {
+      "id": "bikinis-verde-y-violeta",
+      "name": "Bikinis verde y violeta",
+      "category": "playa",
+      "price": null,
+      "colorCount": 2,
+      "colors": [
+        "Verde",
+        "Violeta"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/bikinis-verde-y-violeta-1.webp"
+      ]
+    },
+    {
+      "id": "malla-enteriza",
+      "name": "Malla enteriza",
+      "category": "playa",
+      "price": null,
+      "colorCount": 1,
+      "colors": [
+        "Nude"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "Malla enteriza con escote en V.",
+      "images": [
+        "img/malla-enteriza-1.webp"
+      ]
+    },
+    {
+      "id": "shorts-de-bano-tropicales",
+      "name": "Shorts de baño tropicales",
+      "category": "playa",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/shorts-de-bano-tropicales-1.webp"
+      ]
+    },
+    {
+      "id": "shorts-de-bano-a-rayas",
+      "name": "Shorts de baño a rayas",
+      "category": "playa",
+      "price": null,
+      "colorCount": 2,
+      "colors": [
+        "Rojo",
+        "Azul y amarillo"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/shorts-de-bano-a-rayas-1.webp"
+      ]
+    },
+    {
+      "id": "shorts-de-bano-estampados",
+      "name": "Shorts de baño estampados",
+      "category": "playa",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/shorts-de-bano-estampados-1.webp"
+      ]
+    },
+    {
+      "id": "shorts-de-bano-lisos",
+      "name": "Shorts de baño lisos",
+      "category": "playa",
+      "price": null,
+      "colorCount": 3,
+      "colors": [
+        "Negro",
+        "Celeste",
+        "Arena"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/shorts-de-bano-lisos-1.webp"
+      ]
+    },
+    {
+      "id": "conjunto-sastrero-gris",
+      "name": "Conjunto sastrero gris",
+      "category": "conjuntos",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": true,
+      "inStock": true,
+      "description": "Blazer y pantalón a tono.",
+      "images": [
+        "img/conjunto-sastrero-gris-1.webp"
+      ]
+    },
+    {
+      "id": "conjunto-rojo",
+      "name": "Conjunto rojo",
+      "category": "conjuntos",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/conjunto-rojo-1.webp"
+      ]
+    },
+    {
+      "id": "conjuntos-chenille",
+      "name": "Conjuntos chenille",
+      "category": "conjuntos",
+      "price": null,
+      "colorCount": 4,
+      "colors": [
+        "Crudo",
+        "Rosa",
+        "Bordó",
+        "Gris"
+      ],
+      "sizes": [],
+      "featured": true,
+      "inStock": true,
+      "description": "Buzo y pantalón de chenille.",
+      "images": [
+        "img/conjuntos-chenille-1.webp"
+      ]
+    },
+    {
+      "id": "conjunto-de-punto-gris",
+      "name": "Conjunto de punto gris",
+      "category": "conjuntos",
+      "price": null,
+      "colorCount": 1,
+      "colors": [
+        "Gris"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "Buzo y pantalón de punto.",
+      "images": [
+        "img/conjunto-de-punto-gris-1.webp"
+      ]
+    },
+    {
+      "id": "camisa-a-rayas-y-bermuda-blanca",
+      "name": "Camisa a rayas y bermuda blanca",
+      "category": "conjuntos",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/camisa-a-rayas-y-bermuda-blanca-1.webp"
+      ]
+    },
+    {
+      "id": "conjunto-vans-bermuda-y-remeras",
+      "name": "Conjunto Vans: bermuda y remeras",
+      "category": "conjuntos",
+      "price": null,
+      "colorCount": 2,
+      "colors": [
+        "Marrón",
+        "Blanco"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/conjunto-vans-bermuda-y-remeras-1.webp"
+      ]
+    },
+    {
+      "id": "camisaco-y-jogger-cargo",
+      "name": "Camisaco y jogger cargo",
+      "category": "conjuntos",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "Camisaco azul marino y jogger cargo verde.",
+      "images": [
+        "img/camisaco-y-jogger-cargo-1.webp"
+      ]
+    },
+    {
+      "id": "campera-biker-gris",
+      "name": "Campera biker gris",
+      "category": "abrigos",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": true,
+      "inStock": true,
+      "description": "Campera biker con cinto y cierres.",
+      "images": [
+        "img/campera-biker-gris-1.webp"
+      ]
+    },
+    {
+      "id": "chalecos-inflados",
+      "name": "Chalecos inflados",
+      "category": "abrigos",
+      "price": null,
+      "colorCount": 2,
+      "colors": [
+        "Crudo",
+        "Negro"
+      ],
+      "sizes": [],
+      "featured": true,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/chalecos-inflados-1.webp"
+      ]
+    },
+    {
+      "id": "chaleco-inflado-liviano",
+      "name": "Chaleco inflado liviano",
+      "category": "abrigos",
+      "price": null,
+      "colorCount": 1,
+      "colors": [
+        "Verde"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "Chaleco con capucha y cierre.",
+      "images": [
+        "img/chaleco-inflado-liviano-1.webp"
+      ]
+    },
+    {
+      "id": "buzos-canguro",
+      "name": "Buzos canguro",
+      "category": "abrigos",
+      "price": null,
+      "colorCount": 2,
+      "colors": [
+        "Camel",
+        "Azul oscuro"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/buzos-canguro-1.webp"
+      ]
+    },
+    {
+      "id": "buzo-canguro-bicolor",
+      "name": "Buzo canguro bicolor",
+      "category": "abrigos",
+      "price": null,
+      "colorCount": 1,
+      "colors": [
+        "Gris y negro"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/buzo-canguro-bicolor-1.webp"
+      ]
+    },
+    {
+      "id": "campera-impermeable-gris",
+      "name": "Campera impermeable gris",
+      "category": "abrigos",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "Campera con capucha y cierre.",
+      "images": [
+        "img/campera-impermeable-gris-1.webp"
+      ]
+    },
+    {
+      "id": "campera-impermeable-mostaza",
+      "name": "Campera impermeable mostaza",
+      "category": "abrigos",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "Campera con capucha y cierre.",
+      "images": [
+        "img/campera-impermeable-mostaza-1.webp"
+      ]
+    },
+    {
+      "id": "sweaters-de-chenille",
+      "name": "Sweaters de chenille",
+      "category": "tejidos",
+      "price": null,
+      "colorCount": 4,
+      "colors": [
+        "Celeste",
+        "Marrón",
+        "Rosa",
+        "Verde manzana"
+      ],
+      "sizes": [],
+      "featured": true,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/sweaters-de-chenille-1.webp"
+      ]
+    },
+    {
+      "id": "poleras-de-punto",
+      "name": "Poleras de punto",
+      "category": "tejidos",
+      "price": null,
+      "colorCount": 3,
+      "colors": [
+        "Blanco",
+        "Verde oliva",
+        "Bordó"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/poleras-de-punto-1.webp"
+      ]
+    },
+    {
+      "id": "sweaters-de-punto",
+      "name": "Sweaters de punto",
+      "category": "tejidos",
+      "price": null,
+      "colorCount": 4,
+      "colors": [
+        "Gris claro",
+        "Negro",
+        "Azul marino",
+        "Crudo"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/sweaters-de-punto-1.webp"
+      ]
+    },
+    {
+      "id": "sweaters-finos",
+      "name": "Sweaters finos",
+      "category": "tejidos",
+      "price": null,
+      "colorCount": 2,
+      "colors": [
+        "Gris claro",
+        "Verde"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/sweaters-finos-1.webp"
+      ]
+    },
+    {
+      "id": "buzos-con-mangas-combinadas",
+      "name": "Buzos con mangas combinadas",
+      "category": "tejidos",
+      "price": null,
+      "colorCount": 2,
+      "colors": [
+        "Beige",
+        "Gris azulado"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/buzos-con-mangas-combinadas-1.webp"
+      ]
+    },
+    {
+      "id": "chaleco-calado-blanco",
+      "name": "Chaleco calado blanco",
+      "category": "tejidos",
+      "price": null,
+      "colorCount": 1,
+      "colors": [
+        "Blanco"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/chaleco-calado-blanco-1.webp"
+      ]
+    },
+    {
+      "id": "pantalones-de-lino",
+      "name": "Pantalones de lino",
+      "category": "pantalones",
+      "price": null,
+      "colorCount": 3,
+      "colors": [
+        "Negro",
+        "Arena",
+        "Blanco"
+      ],
+      "sizes": [],
+      "featured": true,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/pantalones-de-lino-1.webp"
+      ]
+    },
+    {
+      "id": "pantalones-flare",
+      "name": "Pantalones flare",
+      "category": "pantalones",
+      "price": null,
+      "colorCount": 4,
+      "colors": [
+        "Negro",
+        "Azul noche",
+        "Verde oliva",
+        "Beige"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/pantalones-flare-1.webp"
+      ]
+    },
+    {
+      "id": "pantalones-anchos-en-colores",
+      "name": "Pantalones anchos en colores",
+      "category": "pantalones",
+      "price": null,
+      "colorCount": 4,
+      "colors": [
+        "Negro",
+        "Gris",
+        "Bordó",
+        "Beige"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/pantalones-anchos-en-colores-1.webp"
+      ]
+    },
+    {
+      "id": "pantalones-anchos-livianos",
+      "name": "Pantalones anchos livianos",
+      "category": "pantalones",
+      "price": null,
+      "colorCount": 3,
+      "colors": [
+        "Azul",
+        "Verde",
+        "Beige"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/pantalones-anchos-livianos-1.webp"
+      ]
+    },
+    {
+      "id": "pantalones-con-cordon",
+      "name": "Pantalones con cordón",
+      "category": "pantalones",
+      "price": null,
+      "colorCount": 3,
+      "colors": [
+        "Crudo",
+        "Gris",
+        "Gris oscuro"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/pantalones-con-cordon-1.webp"
+      ]
+    },
+    {
+      "id": "pantalones-paracaidas",
+      "name": "Pantalones paracaídas",
+      "category": "pantalones",
+      "price": null,
+      "colorCount": 5,
+      "colors": [
+        "Crudo",
+        "Verde",
+        "Oliva",
+        "Negro",
+        "Gris claro"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/pantalones-paracaidas-1.webp",
+        "img/pantalones-paracaidas-2.webp"
+      ]
+    },
+    {
+      "id": "pantalones-chino",
+      "name": "Pantalones chino",
+      "category": "pantalones",
+      "price": null,
+      "colorCount": 4,
+      "colors": [
+        "Crema",
+        "Beige",
+        "Verde",
+        "Negro"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/pantalones-chino-1.webp"
+      ]
+    },
+    {
+      "id": "pantalones-outdoor-con-cierres",
+      "name": "Pantalones outdoor con cierres",
+      "category": "pantalones",
+      "price": null,
+      "colorCount": 5,
+      "colors": [
+        "Negro",
+        "Gris",
+        "Azul",
+        "Verde",
+        "Beige"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/pantalones-outdoor-con-cierres-1.webp"
+      ]
+    },
+    {
+      "id": "pantalon-cargo-y-remera-new-york",
+      "name": "Pantalón cargo y remera New York",
+      "category": "pantalones",
+      "price": null,
+      "colorCount": 1,
+      "colors": [
+        "Verde"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/pantalon-cargo-y-remera-new-york-1.webp"
+      ]
+    },
+    {
+      "id": "calzas-y-tops-deportivos",
+      "name": "Calzas y tops deportivos",
+      "category": "pantalones",
+      "price": null,
+      "colorCount": 2,
+      "colors": [
+        "Azul",
+        "Verde agua"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/calzas-y-tops-deportivos-1.webp"
+      ]
+    },
+    {
+      "id": "camisa-a-rayas",
+      "name": "Camisa a rayas",
+      "category": "remeras",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": true,
+      "inStock": true,
+      "description": "Camisa a rayas, en un look con short, cartera y gorra.",
+      "images": [
+        "img/camisa-a-rayas-1.webp"
+      ]
+    },
+    {
+      "id": "camisa-calada-blanca",
+      "name": "Camisa calada blanca",
+      "category": "remeras",
+      "price": null,
+      "colorCount": 2,
+      "colors": [
+        "Blanco",
+        "Crudo"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/camisa-calada-blanca-1.webp"
+      ]
+    },
+    {
+      "id": "musculosa-a-rayas",
+      "name": "Musculosa a rayas",
+      "category": "remeras",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "Musculosa con escote en V, vista con jean y cartera.",
+      "images": [
+        "img/musculosa-a-rayas-1.webp"
+      ]
+    },
+    {
+      "id": "remera-manga-larga-escote-v",
+      "name": "Remera manga larga con escote en V",
+      "category": "remeras",
+      "price": null,
+      "colorCount": 1,
+      "colors": [
+        "Gris"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/remera-manga-larga-escote-v-1.webp"
+      ]
+    },
+    {
+      "id": "remeras-basicas-lisas",
+      "name": "Remeras básicas lisas",
+      "category": "remeras",
+      "price": null,
+      "colorCount": 6,
+      "colors": [
+        "Blanco",
+        "Beige",
+        "Gris",
+        "Marrón",
+        "Negro",
+        "Azul"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/remeras-basicas-lisas-1.webp",
+        "img/remeras-basicas-lisas-2.webp"
+      ]
+    },
+    {
+      "id": "chombas-y-buzo",
+      "name": "Chombas y buzo",
+      "category": "remeras",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/chombas-y-buzo-1.webp"
+      ]
+    },
+    {
+      "id": "looks-de-verano-para-hombre",
+      "name": "Looks de verano para hombre",
+      "category": "remeras",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "Camisa a rayas, musculosa y bermudas.",
+      "images": [
+        "img/looks-de-verano-para-hombre-1.webp"
+      ]
+    },
+    {
+      "id": "carteras-y-bolsos",
+      "name": "Carteras y bolsos",
+      "category": "accesorios",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/carteras-y-bolsos-1.webp"
+      ]
+    },
+    {
+      "id": "billeteras-con-cierre",
+      "name": "Billeteras con cierre",
+      "category": "accesorios",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": true,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/billeteras-con-cierre-1.webp"
+      ]
+    },
+    {
+      "id": "billeteras-estampadas",
+      "name": "Billeteras estampadas",
+      "category": "accesorios",
+      "price": null,
+      "colorCount": 0,
+      "colors": [],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/billeteras-estampadas-1.webp"
+      ]
+    },
+    {
+      "id": "boxers-calvin-klein",
+      "name": "Boxers Calvin Klein",
+      "category": "accesorios",
+      "price": null,
+      "colorCount": 6,
+      "colors": [
+        "Blanco",
+        "Gris",
+        "Bordó",
+        "Negro",
+        "Azul",
+        "Rojo"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/boxers-calvin-klein-1.webp",
+        "img/boxers-calvin-klein-2.webp"
+      ]
+    },
+    {
+      "id": "ojotas-vans",
+      "name": "Ojotas Vans",
+      "category": "accesorios",
+      "price": null,
+      "colorCount": 2,
+      "colors": [
+        "Negro",
+        "Blanco"
+      ],
+      "sizes": [],
+      "featured": false,
+      "inStock": true,
+      "description": "",
+      "images": [
+        "img/ojotas-vans-1.webp"
+      ]
+    }
+  ]
+}
